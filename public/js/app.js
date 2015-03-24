@@ -1,2 +1,1 @@
-var legsorSausages = angular.module('LegsorSausages', ['ngResource']);
-
+var legsOrSausages = angular.module('LegsOrSausages', ['ngResource']);
